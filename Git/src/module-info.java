@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nimes
+ *
+ */
+module Git {
+}
